@@ -11,8 +11,30 @@ En simpel RSS Proxy Server, som kører lokalt på din maskine.
 - Få JSON svar
 - Appen kan pakkes til Windows, macOS og Linux
 
-<img src="docs/images/server.png">
+<img src="docs/images/server.png" width="50%">
+<img src="docs/images/browser.png" width="50%">
 
+---
+
+## 📦 Installation (Udvikling)
+
+1. **Klon projektet**
+
+```bash
+git clone https://github.com/7u5a/a_rss_proxy_server.git
+cd a_rss_proxy_server
+```
+
+2. **Installer afhængigheder**
+```bash
 npm init
+```
+
+3. **Start appen i udviklingstilstand**
+```bash
+npm start
+```
+
+
 
 npm pkg .
