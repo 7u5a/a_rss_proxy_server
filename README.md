@@ -35,6 +35,10 @@ npm install
 npm start
 ```
 
+## 🛠 Byg som en app
 
-
+Sørg for at pkg er installeret globalt (eller via 'devDependencies').
+```bash
 npm run build
+```
+Output findet i 'build/'-mappen
