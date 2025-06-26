@@ -27,7 +27,7 @@ cd a_rss_proxy_server
 
 2. **Installer afhængigheder**
 ```bash
-npm init
+npm install
 ```
 
 3. **Start appen i udviklingstilstand**
