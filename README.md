@@ -11,6 +11,8 @@ En simpel RSS Proxy Server, som kører lokalt på din maskine.
 - Få JSON svar
 - Appen kan pakkes til Windows, macOS og Linux
 
+<img src="docs/images/server.png">
+
 npm init
 
 npm pkg .
