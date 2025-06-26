@@ -37,4 +37,4 @@ npm start
 
 
 
-npm pkg .
+npm run build
